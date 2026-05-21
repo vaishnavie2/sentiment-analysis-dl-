@@ -1,5 +1,5 @@
 
-# 🎬 ReviewSense: Sentiment Analysis using LSTM and GRU
+# 🎬 Sentiment Analysis using LSTM and GRU
 
 ## 📌 Project Overview
 
