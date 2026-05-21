@@ -1,7 +1,9 @@
 
-# 🎬 ReviewSense: Deep Learning Based Sentiment Analysis using LSTM and GRU
+# 🎬 ReviewSense: Sentiment Analysis using LSTM and GRU
 
 ## 📌 Project Overview
+
+The dataset used in this project was created by combining custom web-scraped movie reviews with publicly available review datasets. The custom dataset was collected using Selenium-based web scraping from recent movie review pages, while additional public datasets were integrated to increase dataset size, improve data diversity, and enhance model generalization during Deep Learning training. This approach helped create a more realistic and balanced dataset for training LSTM and GRU models effectively.
 
 This project focuses on performing Sentiment Analysis on movie reviews
 using Deep Learning and Natural Language Processing (NLP).
@@ -353,31 +355,7 @@ in VS Code.
 
 ------------------------------------------------------------------------
 
-# 🎤 Interview Explanation
 
-## One-Line Explanation
-
-"I built a Deep Learning based sentiment analysis system that classifies movie reviews using NLP, LSTM, and GRU models, and compared their performance on real-world review datasets collected through web scraping and public datasets."
-
-------------------------------------------------------------------------
-
-# 🎤 What Did You Do?
-
-"I collected and cleaned review data, performed NLP preprocessing, converted text into numerical sequences, trained LSTM and GRU models, evaluated their performance, and compared the models using multiple metrics and graphs."
-
-------------------------------------------------------------------------
-
-# 🎤 What Did You Learn?
-
-"I learned how Deep Learning models process sequential textual data, how embeddings work, how LSTM and GRU capture context, and how to handle real-world noisy datasets."
-
-------------------------------------------------------------------------
-
-# 🎤 Why Did GRU Perform Better?
-
-"GRU has a simpler architecture and fewer parameters, so it trained faster and generalized slightly better on this dataset."
-
-------------------------------------------------------------------------
 
 # 🏁 Conclusion
 
