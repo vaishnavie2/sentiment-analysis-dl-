@@ -48,7 +48,7 @@ def scrape_reviews(movie, target_reviews=100):
 
     data = []
 
-    print(f"\n🔍 Scraping: {movie['name']}")
+    print(f"\n Scraping: {movie['name']}")
 
     try:
 
@@ -274,4 +274,4 @@ if __name__ == "__main__":
         index=False
     )
 
-    print("\n✅ DATASET SAVED SUCCESSFULLY")
+    print("\n DATASET SAVED SUCCESSFULLY")
